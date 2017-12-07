@@ -1,0 +1,12 @@
+# Unity project files
+obj/
+Library/
+UnityPackageManager/
+
+# Visual Studio Files
+*.sln
+*.csproj
+*.userprefs
+
+# SteamVR Plugin
+Assets/SteamVR
